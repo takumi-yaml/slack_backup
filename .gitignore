@@ -9,3 +9,7 @@ pip-selfcheck.json
 MANIFEST
 __pycache__/
 test-deploy/
+/dist
+/slack_backup.egg-info
+m
+s.py

@@ -1,3 +1,0 @@
-[console_scripts]
-sb = slack_backup.slack_backup.SlackBackup:main
-
