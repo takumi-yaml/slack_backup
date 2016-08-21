@@ -1,0 +1,8 @@
+MYTOKEN=xoxp-2834537761-2834937973-6600582150-b3bd09
+OLDEST=7
+FROMADDRESS=admin@localhost
+TOADDRESS=['rocca1141@gmail.com']
+ZIPPATH=./zips/
+SUBJECT=メールテスト
+CHARSET=iso-2022-jp
+TEMPLATE=先週のslackのバックアップです

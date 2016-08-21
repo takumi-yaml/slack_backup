@@ -1,0 +1,11 @@
+/zips
+/__pychache__
+/lib
+/bin
+/include
+.DS_Store
+pip-selfcheck.json
+/build
+MANIFEST
+__pycache__/
+test-deploy/
